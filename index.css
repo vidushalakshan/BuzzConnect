@@ -8,3 +8,25 @@ nav bar */
     position: relative;
     left: 64%;
 }
+
+/* about section */
+
+.aboutTxtOne {
+    color: white;
+    margin-top: 22%;
+}
+
+.aboutTxtTwo {
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.aboutTxtThree {
+    color: whitesmoke;
+}
+
+.imageChat {
+    position: relative;
+    top: 12%;
+    height: 112%;
+}
