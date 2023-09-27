@@ -30,3 +30,20 @@ nav bar */
     top: 12%;
     height: 112%;
 }
+ 
+.btnAbout {
+    position: relative;
+    top: 24%;
+}
+
+#aboutBtnOne {
+    width: 48%;
+    height: 54px;
+}
+
+#aboutBtnTwo {
+    position: relative;
+    left: 14%;
+    width: 48%;
+    height: 54px;
+}
