@@ -89,3 +89,9 @@ nav bar */
     position: relative;
     top: 3%;
 }
+
+#digital {
+    margin-top: 6%;
+    text-align: center;
+    color: whitesmoke;
+}
