@@ -109,3 +109,28 @@ nav bar */
     position: relative;
     left: 86%;
 }
+
+#aboutustech {
+    color: whitesmoke;
+}
+
+.cutting {
+    width: 8%;
+    margin-top: 10%;
+}
+
+.cuttingImg {
+    position: relative;
+    right: 7%;
+    margin-top: 10%;
+}
+
+.cutingTxt {
+    position: relative;
+    top: -46px;
+    left: 13%;
+}
+
+.cutingTxtTwo {
+    font-size: 68%;
+}
