@@ -296,7 +296,7 @@ nav bar */
 
     .aboutText {
         position: relative;
-        top: -140%;
+        top: -149%;
         left: 64%;
     }
 
@@ -315,7 +315,7 @@ nav bar */
 
     .aboutTech {
         position: relative;
-        top: -22%;
+        top: -35%;
         text-align: center;
         font-size: 98%;
         left: 33%;
@@ -325,8 +325,46 @@ nav bar */
         text-align: center;
         font-size: 67%;
         position: relative;
-        top: -19%;
+        top: -35%;
         left: 32%;
     }
 
+    .cutting {
+        position: relative;
+        top: -76px;
+        left: 73%;
+        width: 9%;
+        margin-top: -40%;
+    }
+
+    .cuttingImg {
+        position: relative;
+        right: -63%;
+        bottom: 150px;
+        margin-top: 10%;
+    }
+
+    .cutingTxt {
+        position: relative;
+        top: -137px;
+        left: 13%;
+        width: 130%;
+        text-align: center;
+    }
+
+    .linetops {
+        display: none;
+    }
+
+    .linetopUnders {
+        display: none;
+    }
+
+    .lineunder {
+        display: none;
+    }
+
+    .lineunderunder {
+        display: none;
+    }
 }
