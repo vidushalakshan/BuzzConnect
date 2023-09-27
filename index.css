@@ -285,4 +285,48 @@ nav bar */
         left: 66%;
     }
 
+    #digitalTwo {
+        display: none;
+    }
+
+    .digitalThree {
+        width: 172%;
+        margin-top: 32%;
+    }
+
+    .aboutText {
+        position: relative;
+        top: -140%;
+        left: 64%;
+    }
+
+    #imageGirl {
+        width: 148%;
+    }
+
+    .girlImage {
+         width: 170%;
+         height: 59%;
+    }
+
+    #aboutustech {
+        width: 129%;
+    }
+
+    .aboutTech {
+        position: relative;
+        top: -22%;
+        text-align: center;
+        font-size: 98%;
+        left: 33%;
+    }
+
+    .aboutRevo {
+        text-align: center;
+        font-size: 67%;
+        position: relative;
+        top: -19%;
+        left: 32%;
+    }
+
 }
