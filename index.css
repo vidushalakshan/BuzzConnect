@@ -160,3 +160,27 @@ nav bar */
     top: 57%;
     left: 90%;
 }
+
+.newsImg {
+    width: 100%;
+}
+
+#newsLetter {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.newsLetterRot {
+    position: relative;
+    top: -171%;
+}
+
+.contactLorem {
+    color: whitesmoke;
+    margin-top: 22%;
+}
+
+.socialLinks {
+    margin-top: 8%;
+    padding: 12%;
+}
