@@ -195,3 +195,13 @@ nav bar */
     left: 16%;
     top: -26px;
 }
+
+.footerOne {
+    position: relative;
+    right: 40%;
+}
+
+.footerTwo {
+    position: absolute;
+    left: 77%;
+}
