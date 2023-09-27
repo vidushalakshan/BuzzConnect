@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(20, 19, 19);
+}
+/* 
+nav bar */
+
+#left {
+    position: relative;
+    left: 64%;
+}
