@@ -184,3 +184,15 @@ nav bar */
     margin-top: 8%;
     padding: 12%;
 }
+
+.socialSer {
+    margin-top: 11%;
+    color: whitesmoke;
+}
+
+.callNum {
+    color: whitesmoke;
+    position: relative;
+    left: 16%;
+    top: -26px;
+}
