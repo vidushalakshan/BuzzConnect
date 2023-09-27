@@ -4,6 +4,10 @@ body {
 /* 
 nav bar */
 
+#navs {
+ z-index: 1;
+}
+
 #left {
     position: relative;
     left: 64%;
@@ -28,7 +32,7 @@ nav bar */
 .imageChat {
     position: relative;
     top: 12%;
-    height: 95%;
+    height: 100%;
 }
  
 .btnAbout {
@@ -49,13 +53,8 @@ nav bar */
 }
 
 .aboutSpec {
-    font-weight: bold;
     position: relative;
     top: 39%;
-    right: 38%;
-    font-size: 15px;
-    color: whitesmoke;
-    display: inline;
 }
 
 /* service content */
