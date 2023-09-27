@@ -95,3 +95,17 @@ nav bar */
     text-align: center;
     color: whitesmoke;
 }
+
+#aboutUS {
+    margin-top: 6%;
+}
+
+.lineunder {
+    position: relative;
+    left: 30%;
+}
+
+.lineunderunder {
+    position: relative;
+    left: 86%;
+}
