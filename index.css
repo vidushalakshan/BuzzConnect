@@ -280,4 +280,9 @@ nav bar */
         width: 200%;
     }
 
+    .presenceLeft {
+        position: relative;
+        left: 66%;
+    }
+
 }
