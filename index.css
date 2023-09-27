@@ -139,3 +139,24 @@ nav bar */
     text-align: center;
     color: whitesmoke;
 }
+
+.arrow {
+    width: 73%;
+    position: relative;
+    left: 46%;
+    top: 5%;
+}
+
+.slider {
+    width: 20%;
+    position: relative;
+    left: 40%;
+    top: 77%;
+}
+
+.next {
+    width: 12%;
+    position: relative;
+    top: 57%;
+    left: 90%;
+}
