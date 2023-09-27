@@ -205,3 +205,66 @@ nav bar */
     position: absolute;
     left: 77%;
 }
+
+@media all and (max-device-width: 374px) {
+    .imageChat {
+        display: none;
+    }
+
+    #navs {
+        width: 161%;
+    }
+
+    #mobileAbout {
+        width: 100%;
+    }
+
+    .aboutTxtOne {
+        position: relative;
+        text-align: center;
+        left: 30%;
+        font-size: 109%;
+    }
+
+    .aboutTxtTwo {
+        width: 120%;
+        text-align: center;
+        position: relative;
+        left: 20%;
+    }
+    
+
+    .aboutTxtThree {
+        width: 170%;
+    }
+
+    #aboutBtnTwo {
+        display: none;
+    }
+
+    #aboutBtnOne {
+        position: relative;
+        top: -52px;
+        left: 44%;
+        width: 76%;
+    }
+
+    .aboutSpec {
+        width: 117%;
+        position: relative;
+        top: 25%;
+        left: 34%;
+    }
+
+    .mobileSocial {
+        display: none;
+    }
+
+    #service {
+        width: 162%;
+        margin-top: 41%;
+    }
+
+    
+
+}
