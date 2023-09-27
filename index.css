@@ -28,7 +28,7 @@ nav bar */
 .imageChat {
     position: relative;
     top: 12%;
-    height: 112%;
+    height: 95%;
 }
  
 .btnAbout {
@@ -46,4 +46,14 @@ nav bar */
     left: 14%;
     width: 48%;
     height: 54px;
+}
+
+.aboutSpec {
+    font-weight: bold;
+    position: relative;
+    top: 39%;
+    right: 38%;
+    font-size: 15px;
+    color: whitesmoke;
+    display: inline;
 }
