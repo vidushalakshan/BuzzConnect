@@ -265,6 +265,19 @@ nav bar */
         margin-top: 41%;
     }
 
-    
+    .borderss {
+        border-style: outset;
+        border-color: whitesmoke;
+        border-radius: 6%;
+    }
+
+    #border {
+        border-style: none;
+        border-color: none;
+        border-radius: none;
+        margin-top: 7%;
+        width: 247px;
+        width: 200%;
+    }
 
 }
