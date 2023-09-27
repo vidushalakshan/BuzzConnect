@@ -57,3 +57,12 @@ nav bar */
     color: whitesmoke;
     display: inline;
 }
+
+/* service content */
+
+#service {
+    margin-top: 21%;
+    text-align: center;
+    color: whitesmoke;
+}
+
