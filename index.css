@@ -66,3 +66,26 @@ nav bar */
     color: whitesmoke;
 }
 
+#border {
+    border-style: outset;
+    border-color: whitesmoke;
+    border-radius: 6%;
+    margin-top: 7%;
+    width: 247px;
+}
+
+.serTxt {
+    color: whitesmoke;
+    font-size: 144%;
+    font-weight: bold;
+}
+
+.serTxtTwo {
+    color: whitesmoke;
+}
+
+.imgSer {
+    height: 10%;
+    position: relative;
+    top: 3%;
+}
