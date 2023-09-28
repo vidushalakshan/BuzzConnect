@@ -214,6 +214,10 @@ nav bar */
     display: none;
 }
 
+.contactLoremT {
+    display: none;
+}
+
 @media all and (max-device-width: 374px) {
     .imageChat {
         display: none;
@@ -468,7 +472,82 @@ nav bar */
         right: 18%;
     }
 
-    .imageView {
+    #imageView {
+        display: none;
+    }
+
+    #id {
+        width: 125%;
+    }
+
+    #serviceContent {
+        margin-top: 123%;
+    }
+
+    .contactLorem {
+        display: none;
+    }
+
+    .contactLoremT {
+        display: grid;
+        color: whitesmoke;
+        text-align: center;
+        margin-top: 9%;
+    }
+
+    #clientLOGO {
+        text-align: center;
+        position: relative;
+        left: 28%;
+        width: 109%;
+    }
+
+    .serviceContact {
+        position: relative;
+        bottom: 490px;
+        left: -278%;
+        width: 885%;
+    }
+
+    .contactTxt {
+        display: none;
+    }
+
+    .imgContact {
+        display: none;
+    }
+
+    .contenService {
+        position: relative;
+        width: 602%;
+        bottom: 106%;
+    }
+
+    .contenServices {
+        width: 575%;
+        position: relative;
+        bottom: 106%;
+        left: 603%;
+    }
+
+    .socialLinks {
+        position: relative;
+        top: 172%;
+        margin-top: 8%;
+    }
+
+    .footerOne {
+        position: relative;
+        right: -31%;
+        text-align: center;
+        bottom: 110px;
+    }
+
+    .hr {
+        display: none;
+    }
+
+    .footerTwo {
         display: none;
     }
 }
