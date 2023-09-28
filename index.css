@@ -231,6 +231,14 @@ nav bar */
     top: -23px;
 }
 
+.styleImg {
+    display: none;
+}
+
+.styleImgTwo {
+    display: none;
+}
+
 
 @media all and (max-device-width: 374px) {
     .imageChat {
@@ -591,10 +599,26 @@ nav bar */
     }
 
     .powerTxt {
-        font-size: 100%;
+            font-size: 100%;
+            position: relative;
+            top: 24px;
     }
 
     .serFoutTxt {
         display: none;
+    }
+
+    .styleImg {
+        display: grid;
+        position: relative;
+        right: 23px;
+        top: 5px;
+    }
+    
+    .styleImgTwo {
+        display: grid;
+        position: relative;
+        left: 101%;
+        bottom: 87px;
     }
 }
