@@ -15,6 +15,7 @@ nav bar */
 
 /* about section */
 
+
 .aboutTxtOne {
     color: white;
     margin-top: 22%;
@@ -239,6 +240,18 @@ nav bar */
     display: none;
 }
 
+.unlockImgTwo {
+    display: none;
+}
+
+.unlockImg {
+    display: none;
+}
+
+.imgEmail {
+    height: 49px;
+}
+
 
 @media all and (max-device-width: 374px) {
     .imageChat {
@@ -246,7 +259,7 @@ nav bar */
     }
 
     #navs {
-        width: 161%;
+        width: 162%;
     }
 
     #mobileAbout {
@@ -416,7 +429,7 @@ nav bar */
         text-align: center;
         width: 159%;
         position: relative;
-        top: -68%;
+        top: -36%;
     }
 
     .chooseTxt {
@@ -621,4 +634,38 @@ nav bar */
         left: 101%;
         bottom: 87px;
     }
+
+    .unlockImgTwo {
+        display: grid;
+        position: relative;
+        left: 164%;
+        bottom: 88px;
+    }
+
+    .unlockImg {
+        display: grid;
+        position: relative;
+        top: 86px;
+        left: -1%;
+    }
+
+    .unlockImgTwo{
+        display: grid;
+        position: relative;
+        left: 165%;
+        bottom: 86px;
+    }
+
+    .unImg {
+        position: relative;
+        bottom: 45px;
+        left: 11%;
+    }
+
+    .unImgTwo {
+        position: relative;
+        left: 141%;
+        bottom: 139px;
+    }
+   
 }
