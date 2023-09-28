@@ -420,4 +420,44 @@ nav bar */
         position: relative;
         left: 6%;
     }
+
+    .clientSection {
+        display: none;
+    }
+
+    #clientSec {
+        text-align: center;
+        color: whitesmoke;
+        width: 100%;
+        position: relative;
+        left: 29%;
+    }
+
+    .newsLet {
+        display: none;
+    }
+
+    .newsImg {
+        width: 161%;
+    }
+
+    .newsLetterRot {
+        position: relative;
+        top: -123%;
+        width: 192%;
+    }
+
+    .newsLets {
+        font-size: 102%;
+    }
+
+    #btnSearch {
+        position: relative;
+        left: -17%;
+    }
+
+    .imgEmail {
+        width: 10%;
+        height: 48px;
+    }
 }
