@@ -573,4 +573,19 @@ nav bar */
         bottom: 24px;
         left: 14%;
     }
+
+    .imgSer {
+        height: 10%;
+        position: relative;
+        top: -21px;
+        left: 10%;
+    }
+
+    .powerTxt {
+        font-size: 100%;
+    }
+
+    .serFoutTxt {
+        display: none;
+    }
 }
