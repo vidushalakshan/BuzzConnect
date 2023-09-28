@@ -296,7 +296,7 @@ nav bar */
 
     .aboutText {
         position: relative;
-        top: -149%;
+        top: -134%;
         left: 64%;
     }
 
@@ -314,42 +314,46 @@ nav bar */
     }
 
     .aboutTech {
-        position: relative;
-        top: -35%;
-        text-align: center;
-        font-size: 98%;
-        left: 33%;
+            position: relative;
+            top: -35%;
+            text-align: center;
+            font-size: 118%;
+            left: 16%;
+            width: 131%;
     }
 
     .aboutRevo {
-        text-align: center;
-        font-size: 67%;
-        position: relative;
-        top: -35%;
-        left: 32%;
+            text-align: center;
+            font-size: 84%;
+            position: relative;
+            top: -35%;
+            left: 20%;
+            width: 122%;
     }
 
     .cutting {
         position: relative;
         top: -76px;
         left: 73%;
-        width: 9%;
+        width: 18%;
         margin-top: -40%;
     }
 
     .cuttingImg {
-        position: relative;
-        right: -63%;
-        bottom: 150px;
-        margin-top: 10%;
+            position: relative;
+            right: -57%;
+            bottom: 150px;
+            margin-top: 10%;
+            width: 11%;
     }
 
     .cutingTxt {
         position: relative;
         top: -137px;
-        left: 13%;
-        width: 130%;
+        left: 9%;
+        width: 144%;
         text-align: center;
+        font-size: 109%;
     }
 
     .linetops {
