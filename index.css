@@ -32,7 +32,7 @@ nav bar */
 .imageChat {
     position: relative;
     top: 12%;
-    height: 100%;
+    height: 98%;
 }
  
 .btnAbout {
@@ -164,6 +164,10 @@ nav bar */
     width: 100%;
 }
 
+#chooseUs {
+    display: none;
+}
+
 #newsLetter {
     text-align: center;
     color: whitesmoke;
@@ -204,6 +208,10 @@ nav bar */
 .footerTwo {
     position: absolute;
     left: 77%;
+}
+
+.testi {
+    display: none;
 }
 
 @media all and (max-device-width: 374px) {
@@ -348,12 +356,13 @@ nav bar */
     }
 
     .cutingTxt {
-        position: relative;
-        top: -137px;
-        left: 9%;
-        width: 144%;
-        text-align: center;
-        font-size: 109%;
+            position: relative;
+            top: -161px;
+            left: 9%;
+            width: 144%;
+            text-align: center;
+            font-size: 109%;
+            margin-top: 11%;
     }
 
     .linetops {
@@ -370,5 +379,45 @@ nav bar */
 
     .lineunderunder {
         display: none;
+    }
+
+    #chooseUs {
+        display: grid;
+    }
+
+    .chooseText {
+        color: whitesmoke;
+        text-align: center;
+        width: 159%;
+        position: relative;
+        top: -68%;
+    }
+
+    .chooseTxt {
+        margin-top: 10%;
+        color: whitesmoke;
+        text-align: center;
+        width: 169%;
+    }
+
+    .test {
+        display: none;
+    }
+
+    .testi {
+        display: grid;
+        font-size: 113%;
+        position: relative;
+        left: 31%;
+    }
+
+    .transforming {
+        width: 166%;
+    }
+
+    #digital {
+        margin-top: -32%;
+        position: relative;
+        left: 6%;
     }
 }
