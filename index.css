@@ -222,6 +222,15 @@ nav bar */
     display: none;
 }
 
+.arrowTwo {
+    display: none;
+}
+
+.lineGreen {
+    position: relative;
+    top: -23px;
+}
+
 
 @media all and (max-device-width: 374px) {
     .imageChat {
