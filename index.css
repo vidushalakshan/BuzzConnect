@@ -460,4 +460,15 @@ nav bar */
         width: 10%;
         height: 48px;
     }
+
+    .clientLo {
+        width: 137%;
+        position: relative;
+        text-align: center;
+        right: 18%;
+    }
+
+    .imageView {
+        display: none;
+    }
 }
