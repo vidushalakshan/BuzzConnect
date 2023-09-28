@@ -218,6 +218,11 @@ nav bar */
     display: none;
 }
 
+.arrow{
+    display: none;
+}
+
+
 @media all and (max-device-width: 374px) {
     .imageChat {
         display: none;
@@ -308,7 +313,7 @@ nav bar */
 
     .aboutText {
         position: relative;
-        top: -134%;
+        top: -111%;
         left: 64%;
     }
 
@@ -420,7 +425,7 @@ nav bar */
     }
 
     #digital {
-        margin-top: -32%;
+        margin-top: 0%;
         position: relative;
         left: 6%;
     }
@@ -447,7 +452,7 @@ nav bar */
 
     .newsLetterRot {
         position: relative;
-        top: -123%;
+        top: -65%;
         width: 192%;
     }
 
@@ -549,5 +554,23 @@ nav bar */
 
     .footerTwo {
         display: none;
+    }
+
+    .typeEmail {
+        position: relative;
+        top: 55px;
+    }
+
+    .arrow {
+        display: grid;
+        position: relative;
+        left: 84%;
+        bottom: 15px;
+    }
+
+    .arrowTwo {
+        position: relative;
+        bottom: 24px;
+        left: 14%;
     }
 }
